@@ -45,7 +45,6 @@ end
       return "Couldn't find #{search_term}"
     end
   end
-  resp.finish
 end 
 # class Application
  
